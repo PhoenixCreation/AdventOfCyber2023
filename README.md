@@ -1,0 +1,20 @@
+# Advent of Cyber 2023 Walkthrough
+
+Hi, I am [PhoenixCreation](https://tryhackme.com/p/PhoenixCreation) and this repo contains all the walkthroughs for the [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) hosted by [tryhackme.com](tryhackme.com)
+
+I will be releasing each day's walkthrough as they are released. You can find them inside the walkthrough folder.
+
+Some things about the walkthroughs:
+- I will not be showing the final answers/flags. You are supposed to learn from this and not just copy and paste things.
+- I am assuming that readers have some basic knowledge of the things regarding the cybersecurity, I will try to keep it as simple as possible, but I might come across a little jumpy sometimes.
+- I will try to explain everything as much as possible in details and my thought process. You can have your own opinion and I will love to hear them.
+- I will add TL;DR section for each day to give you some idea of what you will be learning.
+
+### Walkthroughs
+
+| Day | Title | Walkthrough |
+|-----|-------|-------------|
+|1|Chatbot, tell me, if you're really safe?|[link](walkthrough/Day1.md)|
+
+
+### Happy Hacking
