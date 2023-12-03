@@ -15,6 +15,7 @@ Some things about the walkthroughs:
 | Day | Title | Walkthrough |
 |-----|-------|-------------|
 |1|Chatbot, tell me, if you're really safe?|[link](walkthrough/Day1.md)|
+|2|O Data, All Ye Faithful|[link](walkthrough/Day2.md)|
 
 
 ### Happy Hacking
