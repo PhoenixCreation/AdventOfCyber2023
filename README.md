@@ -16,6 +16,7 @@ Some things about the walkthroughs:
 |-----|-------|-------------|
 |1|Chatbot, tell me, if you're really safe?|[link](walkthrough/Day1.md)|
 |2|O Data, All Ye Faithful|[link](walkthrough/Day2.md)|
+|3|Hydra is Coming to Town|[link](walkthrough/Day3.md)|
 
 
 ### Happy Hacking
