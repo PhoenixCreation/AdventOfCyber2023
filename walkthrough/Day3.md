@@ -43,6 +43,7 @@ We can use the hydra now with that file to brute force. You can use the followin
 ```bash
 hydra -l '' -P 3digits.txt -f -v 10.10.104.159 http-post-form "/login.php:pin=^PASS^:Access denied" -s 8000
 ```
+Don't forget to change the IP to your machine.
 
 Well for hydra, there is lot to learn, I am not gonna explain the command as it is already explained in the room's day description. And I will suggest going through [hydra](https://tryhackme.com/room/hydra) room.
 
