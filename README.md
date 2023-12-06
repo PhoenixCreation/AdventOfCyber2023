@@ -18,6 +18,7 @@ Some things about the walkthroughs:
 |2|O Data, All Ye Faithful|[link](walkthrough/Day2.md)|
 |3|Hydra is Coming to Town|[link](walkthrough/Day3.md)|
 |4|Baby, it's CeWLd outside |[link](walkthrough/Day4.md)|
+|5|A Christmas DOScovery: Tapes of Yule-tide Past  |[link](walkthrough/Day5.md)|
 
 
 ### Happy Hacking
