@@ -17,8 +17,9 @@ Some things about the walkthroughs:
 |1|Chatbot, tell me, if you're really safe?|[link](walkthrough/Day1.md)|
 |2|O Data, All Ye Faithful|[link](walkthrough/Day2.md)|
 |3|Hydra is Coming to Town|[link](walkthrough/Day3.md)|
-|4|Baby, it's CeWLd outside |[link](walkthrough/Day4.md)|
-|5|A Christmas DOScovery: Tapes of Yule-tide Past  |[link](walkthrough/Day5.md)|
+|4|Baby, it's CeWLd outside|[link](walkthrough/Day4.md)|
+|5|A Christmas DOScovery: Tapes of Yule-tide Past|[link](walkthrough/Day5.md)|
+|6|Memories of Christmas Past|[link](walkthrough/Day6.md)|
 
 
 ### Happy Hacking
