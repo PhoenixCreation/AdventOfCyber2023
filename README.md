@@ -20,7 +20,8 @@ Some things about the walkthroughs:
 |4|Baby, it's CeWLd outside|[link](walkthrough/Day4.md)|
 |5|A Christmas DOScovery: Tapes of Yule-tide Past|[link](walkthrough/Day5.md)|
 |6|Memories of Christmas Past|[link](walkthrough/Day6.md)|
-|7|‘Tis the season for log chopping! |[link](walkthrough/Day7.md)|
+|7|‘Tis the season for log chopping!|[link](walkthrough/Day7.md)|
+|8|Have a Holly, Jolly Byte!|[link](walkthrough/Day8.md)|
 
 
 ### Happy Hacking
