@@ -22,6 +22,7 @@ Some things about the walkthroughs:
 |6|Memories of Christmas Past|[link](walkthrough/Day6.md)|
 |7|‘Tis the season for log chopping!|[link](walkthrough/Day7.md)|
 |8|Have a Holly, Jolly Byte!|[link](walkthrough/Day8.md)|
+|9|She sells C# shells by the C2shore|[link](walkthrough/Day9.md)|
 
 
 ### Happy Hacking
