@@ -24,6 +24,7 @@ Some things about the walkthroughs:
 |8|Have a Holly, Jolly Byte!|[link](walkthrough/Day8.md)|
 |9|She sells C# shells by the C2shore|[link](walkthrough/Day9.md)|
 |10|Inject the Halls with EXEC Queries|[link](walkthrough/Day10.md)|
+|11|Jingle Bells, Shadow Spells|[link](walkthrough/Day11.md)|
 
 
 ### Happy Hacking

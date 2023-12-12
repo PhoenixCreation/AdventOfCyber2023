@@ -15,3 +15,8 @@ apt install wfuzz -y # It can be used to brute-force websites to discover hidden
 
 # ------------- Exploitation Tools --------------------------------
 apt install sqlmap -y # Enumarate provided URL for the possible sql injection vulnerabilities
+
+
+# ------------- Windows Exploitation --------------------------------
+apt install ruby-dev -y # Used so we can install things using gem
+# gem install evil-winrm # Used to login using NTLM hash of the user   NOTE: this is flacky at the moment, use the docker version instead
