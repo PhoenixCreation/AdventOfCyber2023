@@ -25,6 +25,7 @@ Some things about the walkthroughs:
 |9|She sells C# shells by the C2shore|[link](walkthrough/Day9.md)|
 |10|Inject the Halls with EXEC Queries|[link](walkthrough/Day10.md)|
 |11|Jingle Bells, Shadow Spells|[link](walkthrough/Day11.md)|
+|12|Sleighing Threats, One Layer at a Time|[link](walkthrough/Day12.md)|
 
 
 ### Happy Hacking
