@@ -26,6 +26,7 @@ Some things about the walkthroughs:
 |10|Inject the Halls with EXEC Queries|[link](walkthrough/Day10.md)|
 |11|Jingle Bells, Shadow Spells|[link](walkthrough/Day11.md)|
 |12|Sleighing Threats, One Layer at a Time|[link](walkthrough/Day12.md)|
+|13|To the Pots, Through the Walls|[link](walkthrough/Day13.md)|
 
 
 ### Happy Hacking
