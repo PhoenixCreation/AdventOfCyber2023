@@ -28,6 +28,7 @@ Some things about the walkthroughs:
 |12|Sleighing Threats, One Layer at a Time|[link](walkthrough/Day12.md)|
 |13|To the Pots, Through the Walls|[link](walkthrough/Day13.md)|
 |14|The Little Machine That Wanted to Learn|[link](walkthrough/Day14.md)|
+|15|Jingle Bell SPAM: Machine Learning Saves the Day!|[link](walkthrough/Day15.md)|
 
 
 ### Happy Hacking
