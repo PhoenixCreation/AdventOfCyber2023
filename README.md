@@ -29,6 +29,7 @@ Some things about the walkthroughs:
 |13|To the Pots, Through the Walls|[link](walkthrough/Day13.md)|
 |14|The Little Machine That Wanted to Learn|[link](walkthrough/Day14.md)|
 |15|Jingle Bell SPAM: Machine Learning Saves the Day!|[link](walkthrough/Day15.md)|
+|16|Can't CAPTCHA this Machine!|[link](walkthrough/Day16.md)|
 
 
 ### Happy Hacking
