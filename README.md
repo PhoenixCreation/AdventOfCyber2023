@@ -30,6 +30,7 @@ Some things about the walkthroughs:
 |14|The Little Machine That Wanted to Learn|[link](walkthrough/Day14.md)|
 |15|Jingle Bell SPAM: Machine Learning Saves the Day!|[link](walkthrough/Day15.md)|
 |16|Can't CAPTCHA this Machine!|[link](walkthrough/Day16.md)|
+|17|I Tawt I Taw A C2 Tat!|[link](walkthrough/Day17.md)|
 
 
 ### Happy Hacking
