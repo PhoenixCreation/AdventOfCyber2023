@@ -31,6 +31,7 @@ Some things about the walkthroughs:
 |15|Jingle Bell SPAM: Machine Learning Saves the Day!|[link](walkthrough/Day15.md)|
 |16|Can't CAPTCHA this Machine!|[link](walkthrough/Day16.md)|
 |17|I Tawt I Taw A C2 Tat!|[link](walkthrough/Day17.md)|
+|18|A Gift That Keeps on Giving|[link](walkthrough/Day18.md)|
 
 
 ### Happy Hacking
