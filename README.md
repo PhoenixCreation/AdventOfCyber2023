@@ -32,6 +32,7 @@ Some things about the walkthroughs:
 |16|Can't CAPTCHA this Machine!|[link](walkthrough/Day16.md)|
 |17|I Tawt I Taw A C2 Tat!|[link](walkthrough/Day17.md)|
 |18|A Gift That Keeps on Giving|[link](walkthrough/Day18.md)|
+|19|CrypTOYminers Sing Volala-lala-latility|[link](walkthrough/Day19.md)|
 
 
 ### Happy Hacking
