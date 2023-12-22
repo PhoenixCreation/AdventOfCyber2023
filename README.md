@@ -34,6 +34,7 @@ Some things about the walkthroughs:
 |18|A Gift That Keeps on Giving|[link](walkthrough/Day18.md)|
 |19|CrypTOYminers Sing Volala-lala-latility|[link](walkthrough/Day19.md)|
 |20|Advent of Frostlings|[link](walkthrough/Day20.md)|
+|21|Yule be Poisoned: A Pipeline of Insecure Code!|[link](walkthrough/Day21.md)|
 
 
 ### Happy Hacking
