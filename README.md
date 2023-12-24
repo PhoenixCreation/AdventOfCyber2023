@@ -36,6 +36,7 @@ Some things about the walkthroughs:
 |20|Advent of Frostlings|[link](walkthrough/Day20.md)|
 |21|Yule be Poisoned: A Pipeline of Insecure Code!|[link](walkthrough/Day21.md)|
 |22|Jingle Your SSRF Bells: A Merry Command & Control Hackventure|[link](walkthrough/Day22.md)|
+|23|Relay All the Way|[link](walkthrough/Day23.md)|
 
 
 ### Happy Hacking
