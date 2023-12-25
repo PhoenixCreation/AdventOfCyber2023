@@ -37,6 +37,7 @@ Some things about the walkthroughs:
 |21|Yule be Poisoned: A Pipeline of Insecure Code!|[link](walkthrough/Day21.md)|
 |22|Jingle Your SSRF Bells: A Merry Command & Control Hackventure|[link](walkthrough/Day22.md)|
 |23|Relay All the Way|[link](walkthrough/Day23.md)|
+|24|You Are on the Naughty List, McGreedy|[link](walkthrough/Day24.md)|
 
 
 ### Happy Hacking
